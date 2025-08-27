@@ -4,7 +4,7 @@ Timely detection of customer segment evolution is vital for organizations operat
 
 ## CODE - Python:
 
-thirteenthD - online kmeans
-thirteenthD_BATCH_WARMSTART - batch (standard) kmeans
+thirteenthD - online kmeans <BR>
+thirteenthD_BATCH_WARMSTART - batch (standard) kmeans <BR>
 thirteenthD_clustream - CluStream
 
